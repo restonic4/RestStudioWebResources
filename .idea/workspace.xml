@@ -22,18 +22,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marco/IdeaProjects/WebResources/apk&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/marco/IdeaProjects/WebResources/img"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\marco\IdeaProjects\WebResources\apk" />
       <recent name="C:\Users\marco\IdeaProjects\WebResources\img" />
+      <recent name="C:\Users\marco\IdeaProjects\WebResources\apk" />
       <recent name="C:\Users\marco\IdeaProjects\WebResources\video" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -89,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700085443452</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <option name="closed" value="true" />
+      <created>1700085871401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700085871401</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
